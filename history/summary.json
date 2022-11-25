@@ -112,18 +112,20 @@
     "url": "https://ccweb.rdtest.com.ar:4433/Index.aspx",
     "icon": "https://icons.duckduckgo.com/ip3/ccweb.rdtest.com.ar.ico",
     "slug": "cc-test",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 985,
-    "timeDay": 985,
-    "timeWeek": 985,
-    "timeMonth": 985,
-    "timeYear": 985,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.91%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
+    "time": 962,
+    "timeDay": 962,
+    "timeWeek": 962,
+    "timeMonth": 962,
+    "timeYear": 962,
+    "dailyMinutesDown": {
+      "2022-11-25": 0
+    }
   },
   {
     "name": "Institucional prod",
@@ -184,17 +186,19 @@
     "url": "https://qbe.rdtest.com.ar:4433",
     "icon": "https://icons.duckduckgo.com/ip3/qbe.rdtest.com.ar.ico",
     "slug": "qbe-test",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 921,
-    "timeDay": 921,
-    "timeWeek": 921,
-    "timeMonth": 921,
-    "timeYear": 921,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "98.97%",
+    "uptimeDay": "98.97%",
+    "uptimeWeek": "98.97%",
+    "uptimeMonth": "98.97%",
+    "uptimeYear": "98.97%",
+    "time": 861,
+    "timeDay": 861,
+    "timeWeek": 861,
+    "timeMonth": 861,
+    "timeYear": 861,
+    "dailyMinutesDown": {
+      "2022-11-25": 0
+    }
   }
 ]
