@@ -20,7 +20,7 @@ sites:
   - name: Institucional prod
     url: https://www.rdigitales.com.ar
   - name: Cc mal
-    url: https://www.rdtestssss.com.ar:4433
+    url: https://www.rdtest.com.ar:4433
     
 assignees:
     -Gonchito
