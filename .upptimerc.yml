@@ -16,7 +16,7 @@ sites:
   - name: Cc prod
     url: https://ccweb.rdigitales.com.ar/Index.aspx
   - name: Cc test
-    url: https://ccweb.rdtest.com.ar:4433/Index.aspx
+    url: https://ccweb.ASDrdtest.com.ar:4433/Index.aspx
     
 assignees:
     -Gonchito
