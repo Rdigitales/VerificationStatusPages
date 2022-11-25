@@ -21,8 +21,10 @@ sites:
     url: https://www.rdigitales.com.ar
   - name: Institucional test
     url: https://www.rdtest.com.ar:4433
-  - name: pagina mal
-    url: https://www.345345.com.ar
+  - name: qbe prod
+    url: https://qbe.rdigitales.com.ar
+  - name: qbe test
+    url: https://qbe.rdtest.com.ar:4433
     
 assignees:
     -Gonchito
@@ -33,9 +35,9 @@ status-website:
   # cname: demo.upptime.js.org
   baseUrl: /VerifStatusPages
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  name: Estado paginas RD
+  #introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
+  introMessage: Pagina para monitorear el estado de las paginas de RD.
   navbar:
     - title: Status
       href: /
