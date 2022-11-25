@@ -10,7 +10,7 @@ sites:
   - name: rd+ test
     url: https://rdplus.rdtest.com.ar:4433/v2/loggin.aspx
   - name: Pagina no existe
-    url: https://afgdsfgdsfg.koj.co
+    url: https://administracion.rdigitales.com.ar/login.aspx
     
 assignees:
     -Gonchito
