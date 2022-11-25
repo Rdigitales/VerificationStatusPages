@@ -5,12 +5,18 @@ repo: VerifStatusPages # The name of this repository
 sites:
   - name: Google
     url: https://www.google.com
-  - name: rd+ prod
+  - name: Rd+ prod
     url: https://rdplus.rdigitales.com.ar/v2/loggin.aspx
-  - name: rd+ test
+  - name: Rd+ test
     url: https://rdplus.rdtest.com.ar:4433/v2/loggin.aspx
-  - name: Pagina no existe
+  - name: Administracion prod
     url: https://administracion.rdigitales.com.ar/login.aspx
+  - name: Administracion test
+    url: https://administracion.rdtest.com.ar:4433//login.aspx
+  - name: Cc prod
+    url: https://ccweb.rdigitales.com.ar/Index.aspx
+  - name: Cc test
+    url: https://ccweb.rdtest.com.ar:4433/Index.aspx
     
 assignees:
     -Gonchito
@@ -35,5 +41,4 @@ workflowSchedule:
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
-
 
