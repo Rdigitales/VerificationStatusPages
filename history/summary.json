@@ -112,19 +112,19 @@
     "url": "https://ccweb.rdtest.com.ar:4433/Index.aspx",
     "icon": "https://icons.duckduckgo.com/ip3/ccweb.rdtest.com.ar.ico",
     "slug": "cc-test",
-    "status": "up",
-    "uptime": "80.04%",
-    "uptimeDay": "80.04%",
-    "uptimeWeek": "80.04%",
-    "uptimeMonth": "80.04%",
-    "uptimeYear": "80.04%",
-    "time": 1023,
-    "timeDay": 1023,
-    "timeWeek": 1023,
-    "timeMonth": 1023,
-    "timeYear": 1023,
+    "status": "down",
+    "uptime": "84.64%",
+    "uptimeDay": "84.64%",
+    "uptimeWeek": "84.64%",
+    "uptimeMonth": "84.64%",
+    "uptimeYear": "84.64%",
+    "time": 995,
+    "timeDay": 995,
+    "timeWeek": 995,
+    "timeMonth": 995,
+    "timeYear": 995,
     "dailyMinutesDown": {
-      "2022-11-25": 27
+      "2022-11-25": 22
     }
   },
   {
