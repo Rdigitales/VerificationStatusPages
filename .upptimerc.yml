@@ -17,8 +17,10 @@ sites:
     url: https://ccweb.rdigitales.com.ar/Index.aspx
   - name: Cc test
     url: https://ccweb.rdtest.com.ar:4433/Index.aspx
+  - name: Institucional prod
+    url: https://www.rdigitales.com.ar
   - name: Cc mal
-    url: https://ccweb.ASDrdtest.com.ar:4433/Index.aspx
+    url: https://www.rdtestssss.com.ar:4433
     
 assignees:
     -Gonchito
