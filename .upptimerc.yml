@@ -21,6 +21,8 @@ sites:
     url: https://www.rdigitales.com.ar
   - name: Institucional test
     url: https://www.rdtest.com.ar:4433
+  - name: pagina mal
+    url: https://www.345345.com.ar
     
 assignees:
     -Gonchito
