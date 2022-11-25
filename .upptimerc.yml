@@ -4,7 +4,7 @@ repo: VerifStatusPages # The name of this repository
 
 sites:
   - name: Google
-    url: www.g.com
+    url: www.google.com
   - name: Rd+ prod
     url: https://rdplus.rdigitales.com.ar/v2/loggin.aspx
   - name: Rd+ test
