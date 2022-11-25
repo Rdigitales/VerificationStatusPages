@@ -112,19 +112,19 @@
     "url": "https://ccweb.rdtest.com.ar:4433/Index.aspx",
     "icon": "https://icons.duckduckgo.com/ip3/ccweb.rdtest.com.ar.ico",
     "slug": "cc-test",
-    "status": "down",
-    "uptime": "99.91%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.91%",
-    "time": 962,
-    "timeDay": 962,
-    "timeWeek": 962,
-    "timeMonth": 962,
-    "timeYear": 962,
+    "status": "up",
+    "uptime": "92.17%",
+    "uptimeDay": "92.17%",
+    "uptimeWeek": "92.17%",
+    "uptimeMonth": "92.17%",
+    "uptimeYear": "92.17%",
+    "time": 963,
+    "timeDay": 963,
+    "timeWeek": 963,
+    "timeMonth": 963,
+    "timeYear": 963,
     "dailyMinutesDown": {
-      "2022-11-25": 0
+      "2022-11-25": 19
     }
   },
   {
@@ -186,19 +186,19 @@
     "url": "https://qbe.rdtest.com.ar:4433",
     "icon": "https://icons.duckduckgo.com/ip3/qbe.rdtest.com.ar.ico",
     "slug": "qbe-test",
-    "status": "down",
-    "uptime": "98.97%",
-    "uptimeDay": "98.97%",
-    "uptimeWeek": "98.97%",
-    "uptimeMonth": "98.97%",
-    "uptimeYear": "98.97%",
-    "time": 861,
-    "timeDay": 861,
-    "timeWeek": 861,
-    "timeMonth": 861,
-    "timeYear": 861,
+    "status": "up",
+    "uptime": "30.22%",
+    "uptimeDay": "30.22%",
+    "uptimeWeek": "30.22%",
+    "uptimeMonth": "30.22%",
+    "uptimeYear": "30.22%",
+    "time": 872,
+    "timeDay": 872,
+    "timeWeek": 872,
+    "timeMonth": 872,
+    "timeYear": 872,
     "dailyMinutesDown": {
-      "2022-11-25": 0
+      "2022-11-25": 19
     }
   }
 ]
