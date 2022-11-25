@@ -184,19 +184,19 @@
     "url": "https://qbe.rdtest.com.ar:4433",
     "icon": "https://icons.duckduckgo.com/ip3/qbe.rdtest.com.ar.ico",
     "slug": "qbe-test",
-    "status": "down",
-    "uptime": "66.31%",
-    "uptimeDay": "66.31%",
-    "uptimeWeek": "66.31%",
-    "uptimeMonth": "66.31%",
-    "uptimeYear": "66.31%",
-    "time": 937,
-    "timeDay": 937,
-    "timeWeek": 937,
-    "timeMonth": 937,
-    "timeYear": 937,
+    "status": "up",
+    "uptime": "65.86%",
+    "uptimeDay": "65.86%",
+    "uptimeWeek": "65.86%",
+    "uptimeMonth": "65.86%",
+    "uptimeYear": "65.86%",
+    "time": 974,
+    "timeDay": 974,
+    "timeWeek": 974,
+    "timeMonth": 974,
+    "timeYear": 974,
     "dailyMinutesDown": {
-      "2022-11-25": 44
+      "2022-11-25": 45
     }
   }
 ]
