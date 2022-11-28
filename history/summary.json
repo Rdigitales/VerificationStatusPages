@@ -167,36 +167,36 @@
     "icon": "https://icons.duckduckgo.com/ip3/qbe.rdigitales.com.ar.ico",
     "slug": "qbe-prod",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1055,
     "timeDay": 1190,
     "timeWeek": 1055,
     "timeMonth": 1055,
     "timeYear": 1055,
-    "dailyMinutesDown": {
-      "2022-11-28": 1
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "qbe test",
     "url": "https://qbe.rdtest.com.ar:4433",
     "icon": "https://icons.duckduckgo.com/ip3/qbe.rdtest.com.ar.ico",
     "slug": "qbe-test",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1003,
-    "timeDay": 1090,
-    "timeWeek": 1003,
-    "timeMonth": 1003,
-    "timeYear": 1003,
-    "dailyMinutesDown": {}
+    "time": 999,
+    "timeDay": 1067,
+    "timeWeek": 999,
+    "timeMonth": 999,
+    "timeYear": 999,
+    "dailyMinutesDown": {
+      "2022-11-28": 0
+    }
   }
 ]
