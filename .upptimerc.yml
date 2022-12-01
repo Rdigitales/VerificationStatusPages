@@ -25,9 +25,6 @@ sites:
     url: https://qbe.rdigitales.com.ar
   - name: qbe test
     url: https://qbe.rdtest.com.ar:4433
-    
-assignees:
-    -Gonchito
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
