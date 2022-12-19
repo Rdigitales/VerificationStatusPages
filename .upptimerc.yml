@@ -14,9 +14,9 @@ sites:
   - name: Cc test
     url: https://ccweb.rdtest.com.ar:4433/Index.aspx
   - name: galeno prod	
-	  url: https://galeno.rdigitales.com.ar
+    url: https://galeno.rdigitales.com.ar
   - name: galeno test		
-	  url: https://galeno.rdtest.com.ar:4433
+    url: https://galeno.rdtest.com.ar:4433
   - name: qbe prod
     url: https://qbe.rdigitales.com.ar
   - name: qbe test
