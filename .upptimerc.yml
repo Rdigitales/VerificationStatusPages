@@ -13,10 +13,6 @@ sites:
     url: https://ccweb.rdigitales.com.ar/Index.aspx
   - name: Cc test
     url: https://ccweb.rdtest.com.ar:4433/Index.aspx
-  - name: galeno prod	
-    url: https://galeno.rdigitales.com.ar
-  - name: galeno test		
-    url: https://galeno.rdtest.com.ar:4433
   - name: qbe prod
     url: https://qbe.rdigitales.com.ar
   - name: qbe test
@@ -25,34 +21,10 @@ sites:
     url: https://rdplus.rdigitales.com.ar/v2/loggin.aspx
   - name: Rd+ test
     url: https://rdplus.rdtest.com.ar:4433/v2/loggin.aspx
-  - name: sincromobile prod
-    url: https://sincromobile.rdigitales.com.ar
-  - name: sincromobile test
-    url: https://sincromobile.rdtest.com.ar:4433
-  - name: sura prod
-    url: https://sura.rdigitales.com.ar
-  - name: sura test
-    url: https://sura.rdtest.com.ar:4433
-  - name: ws prod
-    url: https://ws.rdigitales.com.ar
-  - name: ws test
-    url: https://ws.rdtest.com.ar:4433
-  - name: wsbackoffice prod
-    url: https://wsbackoffice.rdigitales.com.ar
-  - name: wsbackoffice test
-    url: https://wsbackoffice.rdtest.com.ar:4433
-  - name: wsrsa prod
-    url: https://wsrsa.rdigitales.com.ar
-  - name: wsrsa test
-    url: https://wsrsa.rdtest.com.ar:4433
   - name: Institucional prod
     url: https://www.rdigitales.com.ar
   - name: Institucional test
     url: https://www.rdtest.com.ar:4433
-  - name: photoup test
-    url: https://photoup.rdtest.com.ar:4433
-  - name: wsp test
-    url: https://wsp.rdtest.com.ar:4433
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
