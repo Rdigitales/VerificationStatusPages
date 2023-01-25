@@ -22,18 +22,19 @@
     "url": "https://administracion.rdigitales.com.ar/login.aspx",
     "icon": "https://icons.duckduckgo.com/ip3/administracion.rdigitales.com.ar.ico",
     "slug": "administracion-prod",
-    "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.64%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.98%",
     "time": 948,
     "timeDay": 931,
     "timeWeek": 1044,
     "timeMonth": 961,
     "timeYear": 948,
     "dailyMinutesDown": {
+      "2023-01-25": 5,
       "2022-12-31": 8,
       "2022-12-28": 2
     }
@@ -43,18 +44,19 @@
     "url": "https://administracion.rdtest.com.ar:4433//login.aspx",
     "icon": "https://icons.duckduckgo.com/ip3/administracion.rdtest.com.ar.ico",
     "slug": "administracion-test",
-    "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.68%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.98%",
     "time": 1007,
     "timeDay": 1106,
     "timeWeek": 1641,
     "timeMonth": 1105,
     "timeYear": 1007,
     "dailyMinutesDown": {
+      "2023-01-25": 5,
       "2022-12-31": 7,
       "2022-12-28": 2
     }
@@ -64,10 +66,10 @@
     "url": "https://ccweb.rdigitales.com.ar/Index.aspx",
     "icon": "https://icons.duckduckgo.com/ip3/ccweb.rdigitales.com.ar.ico",
     "slug": "cc-prod",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.72%",
+    "uptimeWeek": "99.96%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "99.99%",
     "time": 1031,
@@ -76,6 +78,7 @@
     "timeMonth": 1130,
     "timeYear": 1031,
     "dailyMinutesDown": {
+      "2023-01-25": 4,
       "2022-12-31": 7
     }
   },
@@ -84,10 +87,10 @@
     "url": "https://ccweb.rdtest.com.ar:4433/Index.aspx",
     "icon": "https://icons.duckduckgo.com/ip3/ccweb.rdtest.com.ar.ico",
     "slug": "cc-test",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.53%",
-    "uptimeWeek": "99.93%",
+    "uptimeDay": "99.29%",
+    "uptimeWeek": "99.90%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "99.99%",
     "time": 1096,
@@ -96,7 +99,7 @@
     "timeMonth": 1091,
     "timeYear": 1096,
     "dailyMinutesDown": {
-      "2023-01-25": 7
+      "2023-01-25": 10
     }
   },
   {
@@ -104,19 +107,19 @@
     "url": "https://qbe.rdigitales.com.ar",
     "icon": "https://icons.duckduckgo.com/ip3/qbe.rdigitales.com.ar.ico",
     "slug": "qbe-prod",
-    "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "98.67%",
-    "uptimeWeek": "99.81%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.98%",
+    "status": "down",
+    "uptime": "99.97%",
+    "uptimeDay": "98.47%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.97%",
     "time": 1246,
     "timeDay": 4248,
     "timeWeek": 2630,
     "timeMonth": 1605,
     "timeYear": 1246,
     "dailyMinutesDown": {
-      "2023-01-25": 19
+      "2023-01-25": 22
     }
   },
   {
@@ -124,10 +127,10 @@
     "url": "https://qbe.rdtest.com.ar:4433",
     "icon": "https://icons.duckduckgo.com/ip3/qbe.rdtest.com.ar.ico",
     "slug": "qbe-test",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "99.60%",
-    "uptimeWeek": "99.94%",
+    "uptimeDay": "99.44%",
+    "uptimeWeek": "99.92%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
     "time": 1031,
@@ -136,7 +139,7 @@
     "timeMonth": 1128,
     "timeYear": 1031,
     "dailyMinutesDown": {
-      "2023-01-25": 6,
+      "2023-01-25": 8,
       "2022-12-27": 10
     }
   },
@@ -145,10 +148,10 @@
     "url": "https://rdplus.rdigitales.com.ar/v2/loggin.aspx",
     "icon": "https://icons.duckduckgo.com/ip3/rdplus.rdigitales.com.ar.ico",
     "slug": "rd-prod",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 941,
@@ -156,17 +159,19 @@
     "timeWeek": 997,
     "timeMonth": 933,
     "timeYear": 941,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-25": 2
+    }
   },
   {
     "name": "Rd+ test",
     "url": "https://rdplus.rdtest.com.ar:4433/v2/loggin.aspx",
     "icon": "https://icons.duckduckgo.com/ip3/rdplus.rdtest.com.ar.ico",
     "slug": "rd-test",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1156,
@@ -174,17 +179,19 @@
     "timeWeek": 1595,
     "timeMonth": 1223,
     "timeYear": 1156,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-25": 1
+    }
   },
   {
     "name": "Institucional prod",
     "url": "https://www.rdigitales.com.ar",
     "icon": "https://icons.duckduckgo.com/ip3/www.rdigitales.com.ar.ico",
     "slug": "institucional-prod",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2626,
@@ -192,16 +199,18 @@
     "timeWeek": 2482,
     "timeMonth": 2503,
     "timeYear": 2626,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-25": 1
+    }
   },
   {
     "name": "Institucional test",
     "url": "https://www.rdtest.com.ar:4433",
     "icon": "https://icons.duckduckgo.com/ip3/www.rdtest.com.ar.ico",
     "slug": "institucional-test",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -210,6 +219,8 @@
     "timeWeek": 1236,
     "timeMonth": 1206,
     "timeYear": 1193,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-25": 0
+    }
   }
 ]
