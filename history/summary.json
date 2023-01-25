@@ -104,19 +104,19 @@
     "url": "https://qbe.rdigitales.com.ar",
     "icon": "https://icons.duckduckgo.com/ip3/qbe.rdigitales.com.ar.ico",
     "slug": "qbe-prod",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.40%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
-    "time": 1108,
-    "timeDay": 923,
-    "timeWeek": 1597,
-    "timeMonth": 1314,
-    "timeYear": 1108,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.67%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.98%",
+    "time": 1246,
+    "timeDay": 4248,
+    "timeWeek": 2630,
+    "timeMonth": 1605,
+    "timeYear": 1246,
     "dailyMinutesDown": {
-      "2023-01-25": 8
+      "2023-01-25": 19
     }
   },
   {
