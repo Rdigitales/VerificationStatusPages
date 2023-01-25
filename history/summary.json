@@ -84,10 +84,10 @@
     "url": "https://ccweb.rdtest.com.ar:4433/Index.aspx",
     "icon": "https://icons.duckduckgo.com/ip3/ccweb.rdtest.com.ar.ico",
     "slug": "cc-test",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1099,
@@ -95,17 +95,19 @@
     "timeWeek": 987,
     "timeMonth": 1098,
     "timeYear": 1099,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-25": 2
+    }
   },
   {
     "name": "qbe prod",
     "url": "https://qbe.rdigitales.com.ar",
     "icon": "https://icons.duckduckgo.com/ip3/qbe.rdigitales.com.ar.ico",
     "slug": "qbe-prod",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1111,
@@ -113,18 +115,20 @@
     "timeWeek": 1695,
     "timeMonth": 1328,
     "timeYear": 1111,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-25": 1
+    }
   },
   {
     "name": "qbe test",
     "url": "https://qbe.rdtest.com.ar:4433",
     "icon": "https://icons.duckduckgo.com/ip3/qbe.rdtest.com.ar.ico",
     "slug": "qbe-test",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.99%",
     "time": 1030,
     "timeDay": 1112,
@@ -132,6 +136,7 @@
     "timeMonth": 1129,
     "timeYear": 1030,
     "dailyMinutesDown": {
+      "2023-01-25": 1,
       "2022-12-27": 10
     }
   },
