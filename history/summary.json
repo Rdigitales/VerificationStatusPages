@@ -22,10 +22,10 @@
     "url": "https://administracion.rdigitales.com.ar/login.aspx",
     "icon": "https://icons.duckduckgo.com/ip3/administracion.rdigitales.com.ar.ico",
     "slug": "administracion-prod",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "99.98%",
     "time": 947,
@@ -34,6 +34,7 @@
     "timeMonth": 961,
     "timeYear": 947,
     "dailyMinutesDown": {
+      "2023-02-05": 1,
       "2023-01-25": 10,
       "2022-12-31": 8,
       "2022-12-28": 2
@@ -44,10 +45,10 @@
     "url": "https://administracion.rdtest.com.ar:4433//login.aspx",
     "icon": "https://icons.duckduckgo.com/ip3/administracion.rdtest.com.ar.ico",
     "slug": "administracion-test",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.98%",
     "time": 1005,
@@ -56,6 +57,7 @@
     "timeMonth": 1111,
     "timeYear": 1005,
     "dailyMinutesDown": {
+      "2023-02-05": 1,
       "2023-01-25": 11,
       "2022-12-31": 7,
       "2022-12-28": 2
