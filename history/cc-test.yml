@@ -1,7 +1,7 @@
 url: https://ccweb.rdtest.com.ar:4433/Index.aspx
-status: down
-code: 400
-responseTime: 1661
-lastUpdated: 2024-11-01T18:02:14.881Z
+status: up
+code: 200
+responseTime: 1711
+lastUpdated: 2024-11-01T18:12:05.741Z
 startTime: 2022-11-25T13:21:51.000Z
 generator: Upptime <https://github.com/upptime/upptime>
