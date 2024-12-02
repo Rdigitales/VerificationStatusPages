@@ -114,18 +114,20 @@
     "url": "https://qbe.rdtest.com.ar:4433",
     "icon": "https://icons.duckduckgo.com/ip3/qbe.rdtest.com.ar.ico",
     "slug": "qbe-test",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1533,
-    "timeDay": 1987,
-    "timeWeek": 1781,
-    "timeMonth": 1850,
-    "timeYear": 1850,
-    "dailyMinutesDown": {}
+    "time": 1536,
+    "timeDay": 1818,
+    "timeWeek": 1765,
+    "timeMonth": 1843,
+    "timeYear": 1844,
+    "dailyMinutesDown": {
+      "2024-12-02": 0
+    }
   },
   {
     "name": "Rd+ prod",
