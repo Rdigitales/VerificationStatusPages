@@ -22,36 +22,40 @@
     "url": "https://administracion.rdigitales.com.ar/login.aspx",
     "icon": "https://icons.duckduckgo.com/ip3/administracion.rdigitales.com.ar.ico",
     "slug": "administracion-prod",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.80%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 1172,
+    "time": 1174,
     "timeDay": 1910,
     "timeWeek": 1773,
     "timeMonth": 1729,
     "timeYear": 1734,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-12-06": 3
+    }
   },
   {
     "name": "Administracion test",
     "url": "https://administracion.rdtest.com.ar:4433//login.aspx",
     "icon": "https://icons.duckduckgo.com/ip3/administracion.rdtest.com.ar.ico",
     "slug": "administracion-test",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.82%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 1214,
+    "time": 1215,
     "timeDay": 1879,
     "timeWeek": 1755,
     "timeMonth": 1710,
     "timeYear": 1719,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-12-06": 3
+    }
   },
   {
     "name": "Cc prod",
@@ -188,17 +192,19 @@
     "url": "https://www.rdtest.com.ar:4433",
     "icon": "https://icons.duckduckgo.com/ip3/www.rdtest.com.ar.ico",
     "slug": "institucional-test",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1679,
+    "time": 1681,
     "timeDay": 1853,
     "timeWeek": 1862,
     "timeMonth": 1855,
     "timeYear": 1926,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-12-06": 0
+    }
   }
 ]
