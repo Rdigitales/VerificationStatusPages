@@ -192,9 +192,9 @@
     "url": "https://www.rdtest.com.ar:4433",
     "icon": "https://icons.duckduckgo.com/ip3/www.rdtest.com.ar.ico",
     "slug": "institucional-test",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "100.00%",
@@ -204,6 +204,7 @@
     "timeMonth": 1915,
     "timeYear": 1923,
     "dailyMinutesDown": {
+      "2025-01-04": 0,
       "2024-12-27": 13,
       "2024-12-06": 12
     }
